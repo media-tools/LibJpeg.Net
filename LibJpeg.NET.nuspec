@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>LibJpeg.NET-ts</id>
+    <version>2.0.1</version>
+    <title>LibJpeg.NET</title>
+    <authors>Bit Miracle, b9chris, Tobias Schulz</authors>
+    <owners>tobiasschulz</owners>
+    <licenseUrl>https://raw.githubusercontent.com/BitMiracle/libjpeg.net/master/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .NET version of LibJpeg library made by Bit Miracle, forked by b9chris, updated by Tobias Schulz</description>
+    <summary>A .NET version of LibJpeg library made by Bit Miracle, forked by b9chris, updated by Tobias Schulz</summary>
+    <releaseNotes></releaseNotes>
+    <language>en-US</language>
+    <tags>mono jpeg .net libjpeg bitmiracle</tags>
+  </metadata>
+  <files>
+    <file src="LibJpeg/bin/$configuration$/LibJpeg.NET.dll" target="lib/net45/" />
+  </files>
+</package>

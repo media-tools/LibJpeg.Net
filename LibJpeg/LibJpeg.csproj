@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BitMiracle.LibJpeg</RootNamespace>
-    <AssemblyName>BitMiracle.LibJpeg.NET</AssemblyName>
+    <AssemblyName>LibJpeg.NET</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SynchReleaseVersion>false</SynchReleaseVersion>
